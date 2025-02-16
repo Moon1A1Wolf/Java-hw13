@@ -59,8 +59,8 @@ INSERT INTO menu (name_ua, name_en, category, price)
 VALUES ('Еспресо', 'Espresso', 'Напій', 35.00);
 
 INSERT INTO menu (name_ua, name_en, category, price)
-
 VALUES ('Торт Шоколадний', 'Chocolate Cake', 'Десерт', 270.00);
+
 INSERT INTO menu (name_ua, name_en, category, price)
 VALUES ('Торт Чизкейк', 'Cheesecake Cake', 'Десерт', 150.00);
 
